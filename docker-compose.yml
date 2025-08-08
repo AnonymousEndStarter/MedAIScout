@@ -1,0 +1,23 @@
+version: '3'
+services:
+    vuln_finder:
+      container_name: vuln_finder
+      build:
+        context: .
+        dockerfile: Docker/Dockerfile
+      volumes:
+        - ./Data:/mnt/Data:rw
+        - ./Tool:/mnt/Tool:ro
+        - ./cache:/root/.cache
+      tty: true 
+      stdin_open: true
+    browser:
+        container_name: browser
+        image: selenium/standalone-chrome
+        ports:
+            - "5555:4444"
+            - "5900:5900"
+        restart: always
+        volumes:
+            - /dev/shm:/dev/shm
+            - ./Data/Downloads:/home/seluser/Downloads

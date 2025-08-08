@@ -1,0 +1,81 @@
+Submission Number,AI_Algo,Name of device,Desc
+K163253,deep learning,Arterys Cardio DL,software analyzing cardiovascular images from MR
+K162627,automated algorithm,EnsoSleep,diagnosis of sleep disorders
+K173542,deep learning,Arterys Oncology DL, medical diagnostic application
+DEN180001,A.I.,Idx,detection of diabetic retinopathy
+K190442,machine learning,Koios DS for Breast,diagnostic software for lesions suspicious for cancer
+DEN170073,A.I.,ContaCT,stroke detection on CT
+DEN180005,deep learning,OsteoDetect,X-ray wrist fracture diagnosis
+P160007,A.I.,Guardian Connect System,predicting blood glucose changes
+K173780,machine learning,EchoMD Automated Ejection Fraction Software,echocardiogram analysis
+DEN170043,A.I.,DreaMed,managing Type 1 diabetes.
+K173821,Not available,LungQ,Quantitative analysis of chest CT scans
+K180647,deep learning,BriefCase,triage and diagnosis of time sensitive patients
+K191994,deep learning,ProFound™ AI Software V2.1,breast density via mammogprahy
+K182336,deep neural network-based algorithm,SubtlePET,radiology image processing software
+K182034,A.I.,Arterys MICA,Liver and lung cancer diagnosis on CT and MRI
+K180432,AI-ECG,AI-ECG Platform,ECG analysis support
+K182177,artificial intelligence algorithm,Accipiolx,acute intracranial hemorrhage triage algorithm
+K181939,machine learning and deep learning,icobrain,MRI brain interpretation
+K182218,artificial intelligence,FerriSmart Analysis System,measure liver iron concentration
+K183285,artificial intelligence algorithm,cmTriage,Mammogram workflow
+K183202,deep learning,Deep Learning Image Reconstruction,CT image reconstruction
+K190362,artificial intelligence,HealthPNX,Chest X-Ray assessment pneumothorax
+K183046,Deep Convolutional Neural Network,Advanced Intelligent Clear-IQ Engine (AiCE),Noise reduction algorithm
+K191688,convulutional neural network,SubtleMR,radiology image processing software
+K183271,deep learning,AI-Rad Companion (Pulmonary),CT image reconstruction - pulmonary
+K183182,artificial intelligence algorithms,Critical Care Suite,Chest X-Ray assessment pneumothorax
+K183268,deep learning,AI-Rad Companion (Cardiovascular),CT image reconstruction - cardiovascular
+K191171,machine learning-based algorithms,EchoGo Core,quantification and reporting of results of cardiovascular function
+K192287,machine learning components,TransparaTM,Mammogram workflow
+DEN170022,artificial intelligence algorithm,QuantX,Radiological software for lesions suspicious for cancer
+K192004,artificial neural network,Eko Analysis Software,Cardiac Monitor
+K121197,Not available,BodyGuardian Remote Monitoring System,Remote monitoring device for patients with cardiac arrhythmias
+K123526,Not available,Temporal Comparison,Chest X-Ray Scanning Software
+ DEN140025,Not available,Ahead 100,Device to interprete the structural condition of the patient’s brain after head injury.
+K140933,Not available,AliveCor,detection of atrial fibrillation
+K143468,Not available,QbCheck,diagnosis and treatment of ADHD
+K160016,Not available,Steth IO,"acoustic device to collect heart
+and lung sounds"
+K161328,Not available,Cantab Mobile,memory assessment for the elderly
+K162574,Not available,AmCAD-US,analysis of thyroid nodules
+K163694,Not available,"Rooti Rx System ECG Event Recorder, Rooti Link APP Software",wearable continuous ECG monitor
+K172311,Not available,BioFlux,detecting arrhythmias
+K171056,Not available,WAVE Clinical Platform,Monitoring vital signs
+K170540,Not available,DM-Density,Breast density via mammogprahy
+K180455,Not available,NeuralBot,transcranial Doppler probe positioning
+K172983,Not available,HealthCCS,coronary artery calcification algorithm
+K173931,Not available,MindMotion GO, software with rehabilitation exercises for the elderly
+DEN180044,Not available,ECG App,detection of atrial fibrillation
+K173872,Not available,FibriCheck,Cardiac Monitor
+DEN180042,Not available,Irregular Rhythm Notification Feature,detection of atrial fibrillation
+K181771,Not available,RightEye Vision System,identifying visual tracking impairment
+K191713,Not available,FluoroShield™,Radiation dosage reduction
+K181861,Not available,Embrace,wearable for seizure monitoring 
+K182130,Not available,iSchemaView RAPID,stroke detection on CT and MRI
+K182564,Not available,Quantib ND,Neurodegenerative disease MRI brain reading
+K182456,Not available,Study Watch,ECG feature of the Study Watch
+K181823,Not available,KardiaAI,six-lead smartphone ECG
+K181352,Not available,Loop System,Monitoring vital signs
+K182344,Not available,RhythmAnalytics,Monitoring cardiac arrhythmias
+K181988,Not available,eMurmer ID,Heart murmur detection
+K173681,Not available,ReSET-O,adjuvant treatment of substance abuse disorder
+K182384,Not available,ACR | LAB Urine Analysis Test System,Urinary tract infection diagnosis
+K191272,Not available,Current Wearable Health Monitoring System,Monitoring vital signs
+K183322,Not available,physIQ Heart Rhythm and Respiratory Module,detection of atrial fibrillation
+K191384,Not available,RayCare 2.3,Medical charged-particle radiation therapy system
+K183282,Not available,Biovitals Analytics Engine ,Cardiac Monitor
+DEN190040,artificial intelligence,Caption Guidance ,Software to assist medical professionals in the acquisition of cardiac ultrasound images.
+K190815,Not available,BrainScope TBI,EEG-based Concussion Index
+K193300 ,artificial intelligence,AIMI-Triage CXR PTX,Chest X-ray prioritization service
+K200667,artificial intelligence,EyeArt,Automated detection of diabetic retinopathy
+K200921,artificial intelligence,qER,Computer aided triage and notification software for CT images
+K201369,artificial intelligence,"AVA (Augmented Vascular Analysis)", Analysis and reporting of vascular ultrasound scans
+K201019,machine learning,Genius AI Detection,Software device intended to identify potential abnormalities in breast tomosynthesis images
+K161625,Not available,PixelShine,Algorithm used to de-noise CT datasets to increase image quality at reduced dose levels
+K092967,machine learning,Pathwork Tissue of Origin Test Kit-FFPE,"ML test to aid diagnosis of difficult-to-diagnose tumors using formalin-fixed, paraffin-embedded samples"
+K200717,machine learning,CLEWICU System,A.I.- driven Intensive care decision support system.
+K191556, artificial intelligence,red dot,Prioritisation of pneumothorax on chest X-rays
+DEN200069,Not available,Cognoa ASD Diagnosis Aid,Software aid in the diagnosis of Autism Spectrum Disorder
+K203518,Not available,Quicktome,Digital brain mapping platform
+P940029,Neural networks,PAPNET Testing System,Semi-automated device indicated to aid in the rescreening of negative Pap test
